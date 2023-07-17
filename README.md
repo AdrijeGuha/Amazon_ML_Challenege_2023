@@ -1,7 +1,7 @@
 # **Amazon ML Challenege 2023**
 ![AmazonMLChallenge](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia-fastly.hackerearth.com%2Fmedia%2Fhackathon%2Famazon-ml-challenge-2023%2Fimages%2F11bd10ecf6-amazon_ml_challenge_hackerearth.jpg&f=1&nofb=1&ipt=d5908b73bbb0a585180441e20cecf5caac94ab3109dfbe0804cfa83819f066c5&ipo=images)
 A team-participation challenge was held on April 21, 2023, 12:00 AM IST–April 23, 2023, where a solution was to be built for the given problem statement. This repository consists of a Jupyter notebook that contains the code we submitted under the name of our team, [TALISMANIC VADERS](https://www.hackerearth.com/challenges/competitive/amazon-ml-challenge-2023/leaderboard/page/6/#) and with an accuracy of _20.42677_, we ranked __290__ among 4898 teams.
-# Problem Statement ~
+## Problem Statement ~
 --------
 ## Product length prediction  
 In this hackathon, the goal is to develop a machine learning model that can predict the length dimension of a product. Product length is crucial for packaging and storing products efficiently in the warehouse. Moreover, in many cases, it is an important attribute that customers use to assess the product size before purchasing. However, measuring the length of a product manually can be time-consuming and error-prone, especially for large catalogues with millions of products.
